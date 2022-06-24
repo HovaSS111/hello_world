@@ -20,4 +20,3 @@ i learn bash comands:
 - ` git diff` difference in console 
 - `git remote add` add remote repository for example githab
 - ` git push` upload represetoru 
-- ` 
